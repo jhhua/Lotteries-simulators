@@ -1,0 +1,2 @@
+# Lotteries-simulators
+Quit gambling.
