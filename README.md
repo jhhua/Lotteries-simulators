@@ -2,10 +2,7 @@
 ### Lotteries-simulators
 Quit gambling addiction.
 
-```
-Generate random numbers.
-```
-![image](https://github.com/jhhua/Lotteries-simulators/assets/69577632/5c21c971-791a-4575-8592-0c13dbafd6a3)
+
 
 ```
 联系方式：https://github.com/jhhua/zhihu_article_for_me
@@ -39,6 +36,14 @@ Telegram:17608116676，你也可以加群来与我取得联系，加群链接htt
 紧急联系方式：
 whatsapp这种国内手机注册存在困难，后期看情况再贴其他社交账号
 ```
+
+
+
+```
+Generate random numbers.
+```
+![image](https://github.com/jhhua/Lotteries-simulators/assets/69577632/5c21c971-791a-4575-8592-0c13dbafd6a3)
+
 
 ```
 Let you experience the fun of gambling.
